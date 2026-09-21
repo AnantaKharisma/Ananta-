@@ -66,7 +66,7 @@ while angka < 5:
 # print("berakhir")
 
 # break
-
+# TUGAS PERTEMUAN 5 PERULANGAN DAN KOTROL ALUR
 
 for i in range(1,51):
     if i % 2 == 0:
