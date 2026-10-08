@@ -67,6 +67,7 @@ while angka < 5:
 
 # break
 # TUGAS PERTEMUAN 5 PERULANGAN DAN KOTROL ALUR
+print("===MENENTUKAN BILANGAN GANJIL DAN GENAP===")
 
 for i in range(1,51):
     if i % 2 == 0:
@@ -75,6 +76,7 @@ for i in range(1,51):
         print(f"{i} adalah bilangan ganjil")
 print("akhiri dari program\n")
 
+print("===MENENTUKAN BILANGAN PRIMA===")
 for angka in range(2,101):
     prima = True
 
