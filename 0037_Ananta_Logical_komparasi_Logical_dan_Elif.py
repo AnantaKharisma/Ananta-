@@ -27,6 +27,7 @@ print("akhir dari program else statement")
 
 
 # Program untuk menentukan kategori usia berdasarkan input pengguna
+print("===Menentukan kategori usia berdasarakan input pengguna===")
 usia = int(input("Masukan usia Anda: ")) # int untuk mengubah input menjadi integer
 
 if usia >= 0 and usia <= 12: # if statement untuk kategori anak-anak
